@@ -1,4 +1,4 @@
-use solana_program_test::*;  OBSUUM
+use solana_program_test::*;  PRAGNA
 use solana_sdk::{ 
     account::Account,
     instruction::{AccountMeta, Instruction},
