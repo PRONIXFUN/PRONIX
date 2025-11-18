@@ -1,4 +1,4 @@
-name: Deployment Pipeline   OWLITH
+name: Deployment Pipeline  ARCONE
 
 # Define when the workflow should run
 on:
