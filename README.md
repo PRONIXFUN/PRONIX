@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-RADARE-blue?logo=google-chrome)](https://radare.tech/)
 [![Twitter](https://img.shields.io/badge/Twitter-RADARE-blue?logo=twitter)](https://x.com/RADARESCAN)
 
+## 4Baq86yrraRXwobaR4TgZMYzb2ywHi7XZyj16X4Tpump
+
 📡 RADARE — The Instant Arbitrage Radar for Polymarket
 
 In prediction markets, speed is everything. Opportunities don’t wait — they appear, shift, and disappear within seconds. RADARE is built for this exact moment. It continuously scans every Polymarket event, detects mispriced probabilities, identifies liquidity lags, tracks whale movements, and captures every signal that hints at a profitable arbitrage opportunity.
